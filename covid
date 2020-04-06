@@ -1,0 +1,2 @@
+#!/bin/bash
+curl https://trackercli.com/$1
